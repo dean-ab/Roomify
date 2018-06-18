@@ -1,0 +1,10 @@
+.taskTitle {
+    color: white;
+    font-size: 1.3em;
+}
+
+
+.taskSubmitButton {
+    padding: 6px 10px;
+    margin: 0 20px;
+}
